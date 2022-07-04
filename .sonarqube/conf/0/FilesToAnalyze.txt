@@ -1,0 +1,24 @@
+﻿C:\Users\nta\source\repos\Library Management System .API\Controllers\AuthorsController.cs
+C:\Users\nta\source\repos\Library Management System .API\Controllers\CategoriesController.cs
+C:\Users\nta\source\repos\Library Management System .API\Controllers\LanaguagesController.cs
+C:\Users\nta\source\repos\Library Management System .API\Controllers\PublishersController.cs
+C:\Users\nta\source\repos\Library Management System .API\DataAccess\LMSDBContext.cs
+C:\Users\nta\source\repos\Library Management System .API\Models\Authors.cs
+C:\Users\nta\source\repos\Library Management System .API\Models\Base\Author.cs
+C:\Users\nta\source\repos\Library Management System .API\Models\Base\Category.cs
+C:\Users\nta\source\repos\Library Management System .API\Models\Base\Language.cs
+C:\Users\nta\source\repos\Library Management System .API\Models\Base\Publisher.cs
+C:\Users\nta\source\repos\Library Management System .API\Models\Books.cs
+C:\Users\nta\source\repos\Library Management System .API\Models\Categories.cs
+C:\Users\nta\source\repos\Library Management System .API\Models\Languages.cs
+C:\Users\nta\source\repos\Library Management System .API\Models\Publishers.cs
+C:\Users\nta\source\repos\Library Management System .API\Program.cs
+C:\Users\nta\source\repos\Library Management System .API\Startup.cs
+C:\Users\nta\source\repos\Library Management System .API\WeatherForecast.cs
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.AssemblyInfo.cs
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nta\source\repos\Library Management System .API\appsettings.Development.json
+C:\Users\nta\source\repos\Library Management System .API\appsettings.json
+C:\Users\nta\source\repos\Library Management System .API\README.md
+C:\Users\nta\source\repos\Library Management System .API\Properties\launchSettings.json

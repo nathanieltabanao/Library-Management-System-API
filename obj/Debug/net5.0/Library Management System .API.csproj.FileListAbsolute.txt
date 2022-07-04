@@ -1,0 +1,58 @@
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\appsettings.json
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Library Management System .API.exe
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Library Management System .API.deps.json
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Library Management System .API.runtimeconfig.json
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Library Management System .API.runtimeconfig.dev.json
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Library Management System .API.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Library Management System .API.pdb
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nta\source\repos\Library Management System .API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.csproj.AssemblyReference.cache
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.AssemblyInfoInputs.cache
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.AssemblyInfo.cs
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.csproj.CoreCompileInputs.cache
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\scopedcss\bundle\Library Management System .API.styles.css
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\staticwebassets\Library Management System .API.StaticWebAssets.Manifest.cache
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.RazorTargetAssemblyInfo.cache
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.csproj.CopyComplete
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.dll
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\refint\Library Management System .API.dll
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.pdb
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\Library Management System .API.genruntimeconfig.cache
+C:\Users\nta\source\repos\Library Management System .API\obj\Debug\net5.0\ref\Library Management System .API.dll
